@@ -22,18 +22,6 @@ Supply chain teams need clear visibility into operational performance. Key quest
 - **CSV Files**: Supply chain datasets  
 
 
-## 📂 Project Structure
-Supply-Chain-Inventory-Logistics-Analytics
-│
-├── Dashboard.xlsx
-├── supply_chain_cleaned.csv
-├── Delivery_Logistics.csv
-├── supply_chain_kpis.csv
-├── data_loading.ipynb
-├── supply_chain_analysis.sql
-└── README.md
-
-
 ## 📊 Key KPIs
 - Warehouse Fulfillment Rate (%)
 - Warehouse Cancellation Rate (%)
