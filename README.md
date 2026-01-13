@@ -22,7 +22,7 @@ Supply chain teams need clear visibility into operational performance. Key quest
 - **CSV Files**: Supply chain datasets  
 
 
-## 📊 Key KPIs
+## Key KPIs
 - Warehouse Fulfillment Rate (%)
 - Warehouse Cancellation Rate (%)
 - Warehouse Pending Order Rate (%)
@@ -31,7 +31,7 @@ Supply chain teams need clear visibility into operational performance. Key quest
 All KPIs are PivotTable-driven and update dynamically using slicers.
 
 
-## 📈 Dashboard Highlights
+## Dashboard Highlights
 - Executive-level KPI cards
 - Interactive warehouse slicer
 - Dynamic charts for fulfillment, cancellation, and pending risk
@@ -39,13 +39,13 @@ All KPIs are PivotTable-driven and update dynamically using slicers.
 
 
 
-## 🔍 Key Insights
+##  Key Insights
 - Fulfillment performance varies significantly across warehouses.
 - Certain warehouses show higher cancellation rates, indicating process inefficiencies.
 - Pending order risk highlights operational bottlenecks requiring attention.
 
 
-## 👤 Author
+##  Author
 **Devendra Kumar**  
 B.Tech Student | Data Analytics & Machine Learning Enthusiast  
 
